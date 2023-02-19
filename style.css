@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #252525;
+    background: #fff;
 }
 .main{
     background-color: white;
